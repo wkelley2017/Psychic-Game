@@ -1,0 +1,24 @@
+h1   {
+    color: #4aaaa5;; font-size:30px;
+  font-weight: 700;
+  line-height: 90px;text-align: center;
+}
+h2   {
+    text-align: center;
+    color: red;
+}
+
+#game   {
+    text-align: center;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    
+}
